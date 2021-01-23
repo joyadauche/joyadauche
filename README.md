@@ -2,9 +2,9 @@
 
 I’m Joy, the amazing Machine Learning Engineer that wants the blind to see, the deaf to hear and the lame to walk using the AI innovatively...
 
-**Expertise**: Python and JavaScript
+:telescope: **Expertise**: Python and JavaScript
 
-- 📫 How to reach me: [Twitter](https://twitter.com/joyadauche), [Linkedin](https://www.linkedin.com/in/joyadauche/).
+📫 **How to reach me**: [Twitter](https://twitter.com/joyadauche), [Linkedin](https://www.linkedin.com/in/joyadauche/).
 
 --------------
 
