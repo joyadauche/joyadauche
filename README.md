@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**joyadauche/joyadauche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Joy, the amazing Machine Learning Engineer that wants the blind to see, the deaf to hear and the lame to walk using the AI innovatively...
 
-Here are some ideas to get you started:
+**Expertise**: Python and JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [Twitter](https://twitter.com/joyadauche), [Linkedin](https://www.linkedin.com/in/joyadauche/).
+
+--------------
+
+Latest Updates:
+
+* I am a [Certified TensorFlow Developer](https://www.credential.net/4d6b185e-87f1-4204-91db-707a56bdf08e#gs.qvrafk)
+
+Fun Technical Writeups:
+* [The ML Maven: Introducing the Confusion Matrix](https://dev.to/joyadauche/the-ml-maven-introducing-the-confusion-matrix-1de7)
+* Find others [here](https://dev.to/joyadauche) 
