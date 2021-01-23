@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Joy, the amazing Machine Learning Engineer that wants the blind to see, the deaf to hear and the lame to walk using the AI innovatively...
+I’m Joy, the amazing Machine Learning Engineer that wants the blind to see, the deaf to hear and the lame to walk using AI innovatively...
 
 :telescope: **Expertise**: Python and JavaScript
 
