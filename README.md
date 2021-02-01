@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Joy, the amazing Machine Learning Engineer that wants to give humans hope using AI innovatively...
+I’m Joy, the amazing Machine Learning Engineer, that wants to give humans hope using AI innovatively...
 
 :telescope: **Expertise**: Python and JavaScript
 
