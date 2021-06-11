@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Joy, the amazing Artificial Intelligence Engineer with specialty in **Computer Vision**, giving humans hope by using AI innovatively...
+I’m Joy, the amazing Software Engineer and Artificial Intelligence Engineer, giving humans hope by using AI innovatively...
 
 :telescope: **Expertise**: Python and JavaScript
 
