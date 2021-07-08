@@ -4,7 +4,7 @@ I’m Joy, the amazing Software Engineer and Artificial Intelligence Engineer, g
 
 :telescope: **Expertise**: JavaScript, TypeScript, and Python
 
-:smile: **Nicknames**: compukid, joy.js, dotjs, constant k, mama j
+:smile: **Nicknames**: compukid, joy.js, dotjs, constant k, mama j, compumama, compulady
 
 📫 **How to reach me**: [Twitter](https://twitter.com/joyadauche), [Linkedin](https://www.linkedin.com/in/joyadauche/).
 
